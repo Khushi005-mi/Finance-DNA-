@@ -1,0 +1,17 @@
+{
+    "saas": {
+      "gross_margin_min": 0.6,
+      "debt_ratio_max": 0.5,
+      "risk_multiplier": 0.8
+    },
+    "manufacturing": {
+      "gross_margin_min": 0.25,
+      "debt_ratio_max": 0.7,
+      "risk_multiplier": 1.1
+    },
+    "fintech": {
+      "gross_margin_min": 0.5,
+      "debt_ratio_max": 0.6,
+      "risk_multiplier": 1.2
+    }
+  }

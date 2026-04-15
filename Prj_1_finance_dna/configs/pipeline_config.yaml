@@ -1,0 +1,16 @@
+validation:
+  strict_mode: true
+
+risk_scoring:
+  weights:
+    gross_margin: 0.4
+    operating_margin: 0.3
+    debt_ratio: 0.3
+
+confidence:
+  warning_penalty: 0.05
+  block_penalty: 0.25
+
+features:
+  enable_industry_adjustment: true
+  enable_plausibility: true
