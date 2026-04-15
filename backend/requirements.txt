@@ -1,3 +1,8 @@
 <<<<<<< HEAD
 =======
 >>>>>>> origin/main
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
